@@ -1,1 +1,16 @@
 GET http://localhost:5121/games
+
+###
+GET http://localhost:5121/games/1
+
+###
+POST http://localhost:5121/games
+# EMPTY LINE UNDERNEATH Content-Type IS REQUIRED
+Content-Type: application/json 
+
+{
+    "name": "The Witcher 3",
+    "genre": "RPG",
+    "price": 10.0,
+    "releaseDate": "2015-05-19"
+}
