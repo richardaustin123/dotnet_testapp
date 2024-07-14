@@ -14,3 +14,15 @@ Content-Type: application/json
     "price": 10.0,
     "releaseDate": "2015-05-19"
 }
+
+###
+PUT http://localhost:5121/games/1
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "The Last of Us Part II",
+    "genre": "Action",
+    "price": 59.99,
+    "releaseDate": "2020-06-19"
+}
