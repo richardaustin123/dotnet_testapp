@@ -29,11 +29,3 @@ Content-Type: application/json
 
 ###
 DELETE http://localhost:5121/games/2
-
-# {
-#   "id": 2,
-#   "name": "Outer Wilds",
-#   "genre": "Adventure",
-#   "price": 1.2,
-#   "releaseDate": "2019-05-30"
-# }
