@@ -24,3 +24,9 @@
 /Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.genruntimeconfig.cache
 /Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/obj/Debug/net8.0/ref/GameStore.Api.dll
 /Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.sourcelink.json
+/Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/bin/Debug/net8.0/MinimalApis.Extensions.dll
+/Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/bin/Debug/net8.0/MiniValidation.dll
+/Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.csproj.AssemblyReference.cache
+/Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/richardaustin/GitHub/dotnet_testapp/GameStore/GameStore.Api/obj/Debug/net8.0/GameStor.5118A84D.Up2Date
